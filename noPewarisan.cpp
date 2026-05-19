@@ -7,3 +7,6 @@ public:
         cout << "Hallo saya function dari base class";
     }
 };
+class baseClass1{
+
+};
